@@ -15,7 +15,7 @@ public class Email {
 
 //constructor to receive first name and last name
 	public Email() {
-		System.out.println("Welcome  in this app.This app helps you create your Email Id.");
+		System.out.println("Welcome in this app.This app helps you create your Email Id.");
 		System.out.println();
 		Scanner n=new Scanner(System.in);
 		n.nextLine();
